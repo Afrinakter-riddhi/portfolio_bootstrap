@@ -1,0 +1,33 @@
+body{
+  font-size: 18px;
+  background-color: black;
+  color: #747ac6;
+}
+header{
+  background-color: black;
+}
+.nav-link{
+	font-color:pink;
+    color: #e488aebd;
+    text-decoration: none;
+    background-color: transparent;
+}
+.pink {
+    color: #db49b9;
+    background-color: #00050a;
+    border-color: #ae1c88;
+}
+.btn:hover {
+    color: #84a1be;
+    text-decoration: none;
+}
+.black{
+	background-color: black;
+}
+.page-link {
+    color: #ce0d88;
+    background-color: #210210;  
+}
+.p_bar{
+	margin:40px;
+}
